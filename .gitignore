@@ -1,0 +1,13 @@
+# IDE files and directories
+.idea/
+
+# Temp files and directories
+tmp/
+temp/
+
+# Any TODO file
+*.todo
+*.TODO
+
+# In MacOs, .DS_Store is a file that stores custom attributes
+.DS_Store
