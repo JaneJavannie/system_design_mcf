@@ -1,5 +1,5 @@
 ## Event Storming
-https://miro.com/app/board/uXjVLxzaRnQ=/
+https://miro.com/app/board/uXjVLrj2lTE=/?share_link_id=416579847816
 
 ### На основе модели ES я выделила следующие контексты:
 - подбор персонала
